@@ -2,6 +2,7 @@
 using System.Net;
 using System.IO;
 using System.Dynamic;
+using System;
 
 namespace ZabbixApi
 {
